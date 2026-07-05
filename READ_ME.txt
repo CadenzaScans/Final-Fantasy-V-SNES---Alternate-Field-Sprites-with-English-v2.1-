@@ -8,6 +8,8 @@ Well look no further this hack is for you!
 
 With this hack the vast majority of character sprites from the main team to important side characters like King Tycoon, Kelger, and the Black Chocobo to name a few were modified to represent a more Promotional/Amano art look.
 
+**To clarify this only changes the field/overworld sprites not the in-battle sprites.
+
 (Due to the nature of the hack with palette swap editing some NPCs and other field sprites from items to enemies were modified from their original look too, some more than others to appear more organic to the game setting.)
 
 - Graphics altered to look more like promotional/Amano's art.
